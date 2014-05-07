@@ -1,0 +1,7 @@
+#Fields:	date	time	type	message
+2014-05-07	01:36:52	NOTICE	Environment: Backup 2.2; WordPress 3.9; PHP 5.2.17; SAPI apache2handler; OS Darwin; ZIP 1.8.11; CURL 7.28.1; Time limit 600s; Memory limit 256M
+2014-05-07	01:36:52	NOTICE	Attempting to dump database.
+2014-05-07	01:36:53	NOTICE	The database dump was completed successfully in 1.007 seconds.
+2014-05-07	01:36:53	NOTICE	Attempting to create archive 'DOG-BREED-PLETHORA-n56khf.zip'.
+2014-05-07	01:37:18	NOTICE	Successfully archived 747 files in 25.179 seconds. Archive file size is 12.49 MB.
+2014-05-07	01:37:18	NOTICE	Backup process completed in 27.901 seconds. Initial PHP memory usage was 24.25 MB and the backup process used another 4.75 MB of RAM.
